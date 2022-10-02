@@ -1,7 +1,7 @@
 ---
-title:
+title: 
 layout: default
-permalink: /projects/
+permalink: https://emilystrickland2.github.io/Historian/projects/
 published: true
 ---
 
