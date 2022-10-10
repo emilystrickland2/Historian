@@ -26,8 +26,8 @@ published: true
 
   {% else %}
 
-  <div class="projectTile">
-          <a href="{{ https://emilystrickland2.github.io/Historian/projects/ | prepend: https://emilystrickland2.github.io/Historian/ | prepend: https://emilystrickland2.github.io/Historian/ }}">
+  div class="projectTile">
+          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
