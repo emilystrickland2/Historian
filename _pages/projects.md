@@ -15,7 +15,7 @@ published: true
 
   {% if project.redirect %}
   <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
+          <a href="{{ project.redirect }}" target="https://emilystrickland2.github.io/Historian/projects/">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
