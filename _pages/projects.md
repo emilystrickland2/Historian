@@ -1,7 +1,7 @@
 ---
 title: 
 layout: default
-permalink: https://emilystrickland2.github.io/Historian/projects/
+permalink: /projects/
 published: true
 ---
 
@@ -15,7 +15,7 @@ published: true
 
   {% if project.redirect %}
   <div class="projectTile">
-          <a href="{{ project.redirect }}" target="https://emilystrickland2.github.io/Historian/projects/">
+          <a href="{{ project.redirect }}" target="_blank">
           <span>
               <h2>{{ project.title }}</h2>
               <br/>
