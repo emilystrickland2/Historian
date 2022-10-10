@@ -7,8 +7,6 @@ baseurl: /Historian #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
-#gh-pages
-'_pages/{{' path in 'master'}}'
 
 # Pagination
 paginate: 4
