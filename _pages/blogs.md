@@ -1,7 +1,7 @@
 ---
 title: 
 layout: default
-permalink: https://emilystrickland2.github.io/Historian/blogs/
+permalink: https://emilystrickland2.github.io/Historian/blog/
 published: true
 ---
 
@@ -25,7 +25,7 @@ published: true
   {% else %}
 
   <div class="blogTile">
-          <a href="{{ https://emilystrickland2.github.io/Historian/blogs/ | prepend: https://emilystrickland2.github.io/Historian/ | prepend: https://emilystrickland2.github.io/Historian/ }}">
+          <a href="{{ https://emilystrickland2.github.io/Historian/blog/ | prepend: https://emilystrickland2.github.io/Historian/ | prepend: https://emilystrickland2.github.io/Historian/ }}">
           <span>
               <h2>{{ blog.title }}</h2>
               <br/>
