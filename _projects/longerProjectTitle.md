@@ -9,7 +9,7 @@ Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/qui
 
 
 
-let spooks = [];
+{let spooks = [];
 
 function setup() {
   createCanvas(600, 600);
@@ -151,4 +151,5 @@ class Spook {
   startWooing() {
      this.woo = "w";
   }
+}
 }
