@@ -11,7 +11,7 @@ pre.highlight {
 }
 
 code {
-  font-family:'Bitstream Vera Sans Mono','Comic sans', monospace;
+  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
   color:#C9D1D9;
   background-color: #263238;
   border-radius: 1px;
@@ -22,19 +22,19 @@ code {
 .highlight .g { color: #93A1A1 } /* Generic */
 .highlight .k { color: #F5244C } /* Keyword */
 .highlight .l { color: #93A1A1 } /* Literal */
-.highlight .n { color: #2abade } /* Name */
+.highlight .n { color: #A6DE2A } /* Name */
 .highlight .o { color: #F8F7E9 } /* Operator */
 .highlight .x { color: #CB4B16 } /* Other */
 .highlight .p { color: #F7F7EE} /* Punctuation */
 .highlight .cm { color: #74705D} /* Comment.Multiline */
 .highlight .cp { color: #C5255E } /* Comment.Preproc */
 .highlight .c1 { color: #74705D } /* Comment.Single */
-.highlight .cs { color: #007a99 } /* Comment.Special */
+.highlight .cs { color: #859900 } /* Comment.Special */
 .highlight .gd { color: #2AA198 } /* Generic.Deleted */
 .highlight .ge { color: #93A1A1; font-style: italic } /* Generic.Emph */
 .highlight .gr { color: #DC322F } /* Generic.Error */
 .highlight .gh { color: #CB4B16 } /* Generic.Heading */
-.highlight .gi { color: #009499 } /* Generic.Inserted */
+.highlight .gi { color: #859900 } /* Generic.Inserted */
 .highlight .go { color: #93A1A1 } /* Generic.Output */
 .highlight .gp { color: #93A1A1 } /* Generic.Prompt */
 .highlight .gs { color: #93A1A1; font-weight: bold } /* Generic.Strong */
@@ -42,8 +42,8 @@ code {
 .highlight .gt { color: #93A1A1 } /* Generic.Traceback */
 .highlight .kc { color: #CB4B16 } /* Keyword.Constant */
 .highlight .kd { color: #268BD2 } /* Keyword.Declaration */
-.highlight .kn { color: #005499 } /* Keyword.Namespace */
-.highlight .kp { color: #007599 } /* Keyword.Pseudo */
+.highlight .kn { color: #859900 } /* Keyword.Namespace */
+.highlight .kp { color: #859900 } /* Keyword.Pseudo */
 .highlight .kr { color: #268BD2 } /* Keyword.Reserved */
 .highlight .kt { color: #63C4CF } /* Keyword.Type */
 .highlight .ld { color: #93A1A1 } /* Literal.Date */
