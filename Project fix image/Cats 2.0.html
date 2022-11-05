@@ -2,18 +2,15 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-<body>
-    <div>
+{{ content }}
 
-
-        {% if page.image1 %}
-        {% if page.image1.image %}
+ {% if page.image1 %}
+    {% if page.image1.image %}
           <img class="image1 {{ page.image1.align }}"  width="33.33%" src="{{ page.image1.image | prepend: '/assets/images/' | relative_url }}">
-        {% endif %}
     {% endif %}
-        
+{% endif %}
+    
+{{ content }}
         Starlight 
 
 
