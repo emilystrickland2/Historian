@@ -4,13 +4,12 @@ layout: default
 
 {{ content }}
 
- {% if page.image1 %}
-    {% if page.image1.image %}
-          <img class="image1 {{ page.image1.align }}"  width="33.33%" src="{{ page.image1.image | prepend: '/assets/images/' | relative_url }}">
+
+{% if page.profile %}
+    {% if page.profile.image %}
+      <img class="profile {{ page.profile.align }}"  width="33.33%" src="{{ page.profile.image | prepend: '/assets/images/' | relative_url }}">
     {% endif %}
 {% endif %}
-    
-{{ content }}
-        
 
+{{ content }}
 
