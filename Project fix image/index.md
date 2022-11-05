@@ -10,7 +10,7 @@ published: true
 
 This is Starlight! Awesome! 3
 
-[image1]
+![image1]
 <html>
 <body>
     <div>
