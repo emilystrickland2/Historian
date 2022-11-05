@@ -2,12 +2,9 @@
 layout: default
 ---
 
-{{ content }}
-
-
 {% if page.profile %}
     {% if page.profile.image %}
-      <img class="profile {{ page.profile.align }}"  width="33.33%" src="{{ page.profile.image | prepend: '/assets/images/' | relative_url }}">
+      <img class="profile {{ page.profile.align }}"  width="600" src="{{ page.profile.image | prepend: '/assets/images/' | relative_url }}">
     {% endif %}
 {% endif %}
 
