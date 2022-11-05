@@ -2,16 +2,25 @@
 layout: default
 permalink: cats 2.0/
 title: Cats 2.0
+image1: star1.png
 ---
+
 <!DOCTYPE html>
 <html>
 <body>
     <div>
 
-        Starlight 7
+
+        {% if page.image1 %}
+        {% if page.image1.image %}
+          <img class="image1 {{ page.image1.align }}"  width="33.33%" src="{{ page.image1.image | prepend: '/assets/images/' | relative_url }}">
+        {% endif %}
+    {% endif %}
+        
+        Starlight 8
 
 <a>
-        <img src="star1.png" align="left"><sizes="600x600"><a href="Cats 2.0.html"></a>
+        <img src="" align="left"><sizes="600x600"><a href="Cats 2.0.html"></a>
 
         <img src="star1.png">
 
