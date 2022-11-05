@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: left
-  image: star1.png
+  image: Selfie.png
 published: true
 ---
 
