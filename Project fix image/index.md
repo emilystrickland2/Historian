@@ -2,7 +2,7 @@
 layout: default
 permalink: cats 2.0/
 title: Cats 2.0
-image1: 
+Profile: 
     align: center
     image: star1.png
 published: true
