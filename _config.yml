@@ -9,7 +9,7 @@ email: #
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
+permalink: blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
@@ -46,7 +46,7 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /projects/:name/
+    permalink: projects/:name/
     order:
       - shortProject.md
       - longerProjectTitle.md
