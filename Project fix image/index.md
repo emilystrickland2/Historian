@@ -8,7 +8,7 @@ Profile:
 published: true
 ---
 
-This is Starlight! Awesome! 3
+This is Starlight! Awesome! 4
 
 
 <html>
@@ -17,10 +17,10 @@ This is Starlight! Awesome! 3
         
 Starlight
 
-![image1]
+![image1](assets\images\starlight.jpg)
 
 <a>        
-<img src="star1.png" sizes="600x600"><a href="cats.html"></a>
+<img src="starlight.jpg" sizes="600x600"><a href="Cats 2.0.html"></a>
 
 </div>
 </body>
