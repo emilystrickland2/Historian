@@ -8,16 +8,16 @@ Profile:
 published: true
 ---
 
-This is Starlight! Awesome! 2
+This is Starlight! Awesome! 3
 
-<!DOCTYPE html>
+[image1]
 <html>
 <body>
     <div>
         
 Starlight
-        
-<img src="cats_images/starlight.jpg" sizes="600x600"><a href="cats.html"></a>
+<a>        
+<img src="star1.png" sizes="600x600"><a href="cats.html"></a>
 
 </div>
 </body>
