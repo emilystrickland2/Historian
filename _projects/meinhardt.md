@@ -17,3 +17,7 @@ The several locations that Meinhardt was photographed at were the Smithsonian, t
 Meinhardt takes the Capital emphases the kinds of person I am. I am weird and creative. During the process of taking these pictures I notices that people were smiling and enjoy my work. This collection should cause the viewers to be more like him and have fun and travel. Be brave and take the chance of an unforgettable adventure even though it is scary because it may turn out to be more fun than you could have ever imagined.
 
 <img src="/Historian/assets/images/meinhardt2.jpg" align= "left" width="200px">
+
+<img src="/Historian/assets/images/meinhardt 2.jpg" align= "left" width="200px">
+
+<img src="/Historian/assets/images/meinhardt 1.jpg" align= "left" width="200px">
