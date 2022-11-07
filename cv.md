@@ -1,3 +1,10 @@
+---
+layout: about
+permalink: /cv/
+title: CV
+published: true
+---
+
 Emily Strickland
 
 +-----------------------------------+-----------------------------------+
