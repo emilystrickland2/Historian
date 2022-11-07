@@ -5,7 +5,9 @@ title: CV
 published: true
 ---
 
-Emily Strickland | Phone: 321-607-2313 | emilystrickland33@knights.ucf.edu |
+# Emily Strickland 
+
+| Phone: 321-607-2313 | emilystrickland33@knights.ucf.edu |
 
 # Education
 
