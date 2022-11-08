@@ -5,13 +5,13 @@ description: The Apolo Journey Birth of the Space Coast Exhibit at the Brevard M
 ---
 # The Apollo Journey: Birth of the Space Coast
 
-<img src="/Historian/assets/images/earth from moon.png" align= "left" width="200px">
+<img src="/Historian/assets/images/earth from moon.png" align= "left">
 
-<img src="/Historian/assets/images/laika.jpg" align= "left" width="200px">
+<img src="/Historian/assets/images/laika.jpg" align= "center" width="200px">
 
-<img src="/Historian/assets/images/time line moon picture.png" align= "left" width="200px">
+<img src="/Historian/assets/images/time line moon picture.png" align= "center" width="200px">
 
-<img src="/Historian/assets/images/timeline panel picture.png" align= "left" width="200px">
+<img src="/Historian/assets/images/timeline panel picture.png" align= "center" width="200px">
 
 <p align="left, bottom">Making an exhibit requires a lot of planning and studying. During summer of 2019, I got the opportunity to intern at the Brevard Museum of History and Natural Science. My supervisor Holly gave me complete creative control over the display of the exhibit after the artifacts were procured. I started with a drawing that I turned into a picture on Microsoft paint so I can have a better visualization of my design. 
 
@@ -19,4 +19,4 @@ We had to paint the wall black and I was left to make the Moon and Earth mural. 
 
 This experience eased any doubt that I would not love curation. I could see myself creating exhibits for the rest of my life and I cannot wait until I get the chance to do this again. </p>
 
-<img src="/Historian/assets/images/exhibit.jpg" align= "left" width="200px">
+<img src="/Historian/assets/images/exhibit.jpg" align= "left">
