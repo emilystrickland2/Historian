@@ -7,7 +7,7 @@ description: The Apolo Journey Birth of the Space Coast Exhibit at the Brevard M
 
 <img src="/Historian/assets/images/earth from moon.png" align= "left" width="200px">
 
-<img src="/Historian/assets/laika.jpg" align= "left" width="200px">
+<img src="/Historian/assets/images/laika.jpg" align= "left" width="200px">
 
 <img src="/Historian/assets/images/time line moon picture.png" align= "left" width="200px">
 
