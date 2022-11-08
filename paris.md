@@ -1,3 +1,11 @@
+---
+Layout: about
+permalink: /2022/Paris/
+title: Paris
+published: true
+---
+  
+  
   ------------------------------------------------------------------------------------------------
   Date        Places         Travel Type Travel Cost Times             Time    Ticket     Ticket
                                                      (All              spent   Type       Price €
