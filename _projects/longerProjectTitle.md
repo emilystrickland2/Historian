@@ -15,7 +15,9 @@ description: This game is the beginning of many Moon related project I will make
 <h1> Hello Astronauts </h1>
 
 <p>
-  <embed type="text/html" src="apollo_collection_exit__________(1).html" width="500" height="200"> </p>
+  <embed onload= startExportedGame( " src= apollo_collection_exit1.html" )>
+	<!-- GAME CANVAS -->
+	<canvas id="game" width="512" height="512"></canvas>
 
  </body>
 
